@@ -15,5 +15,13 @@
     "updateUrl": ""
   },
   "BannedHWIDs": {},
-  "Keys": {}
+  "Keys": {
+    "DPMods-8D7W76": {
+      "hwid": "RESET",
+      "expireDate": "2026-10-17",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
+    }
+  }
 }
