@@ -16,13 +16,6 @@
   },
   "BannedHWIDs": {},
   "Keys": {
-    "DPMods-9XZHL7": {
-      "hwid": "RESET",
-      "expireDate": "2026-09-24",
-      "isBanned": false,
-      "banReason": "",
-      "userRank": "Supreme User"
-    },
     "DPMods-C5ZL0K": {
       "hwid": "RESET",
       "expireDate": "2026-10-24",
